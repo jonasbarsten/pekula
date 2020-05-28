@@ -1,0 +1,170 @@
+{
+	"releases": [
+		{
+			"_id": 1,
+			"name": "Invisible Airships",
+			"slug": "invisible-airships",
+			"artistId": 2,
+			"imageUrl": "/images/releases/invisibleairships.jpg",
+			"aboutText": [
+				"AMGALA TEMPLE's debut album was recorded at Oslo Konserthus and Amper Tone Studios, and was recorded in only a few days. As a document of their natural sound, the recordings remain untampered, resulting in a very honest display of their core sound.",
+				"This album is the first of a series of records that will be offered by AMGALA TEMPLE through Pekula Records, a record label set to document bold sounding, experimental and imaginative music from in and outside of Norway.",
+				"AMGALA TEMPLE is one of the most exciting musical projects to come out of this country in a long time, and we cannot wait to follow their rapid evolution as a band in the coming years."
+			],
+			"releaseDate": "2018-10-27",
+			"links": [
+				{
+					"_id": 1,
+					"label": "spotify",
+					"target": "https://play.spotify.com/album/1d2T9qNFJwFIkyukr3COss",
+					"sortIndex": 1 
+				},
+				{
+					"_id": 2,
+					"label": "bandcamp",
+					"target": "https://amgalatemple.bandcamp.com/",
+					"sortIndex": 2 
+				},
+				{
+					"_id": 3,
+					"label": "LP",
+					"target": "https://jansenrecords.tigernet.no/item/153235--amgala-temple--invisible-airships--vinyl",
+					"sortIndex": 3
+				},
+				{
+					"_id": 4,
+					"label": "amazon",
+					"target": "hhttps://www.amazon.com/Invisible-Airships-Amgala-Temple/dp/B07GPSJ81W/ref=sr_1_1?ie=UTF8&qid=1544600858&sr=8-1&keywords=amgala+temple",
+					"sortIndex": 4
+				}
+			],
+			"content": [
+				{
+					"_id": 1,
+					"type": "image",
+					"subType": "large",
+					"sortIndex": 1,
+					"location": "/images/releases/invisibleairshipsart1.jpg"
+				}
+			]
+		},
+		{
+			"_id": 2,
+			"name": "Pekula - Vol. 1 - ARP",
+			"slug": "pekula-vol-1-arp",
+			"artistId": 3,
+			"imageUrl": "/images/releases/arpvol1.jpg",
+			"aboutText": [
+				"Pekula Vol. 1 - ARP is the first in a series of commissioned pieces, set place in the famous Parkteatret concert venue in Oslo, Norway.",
+				"Erlend Mokkelbost - musician, producer and co-owner of Pekula Records - was asked to make 50 minutes worth of music to celebrate the clubs 15th anniversary. He immediately got the idea to change the format of how these concerts are usually created and presented.",
+				"Involving a group of very talented musicians - known from an array of bands and projects - he instead of branding the project based on their names -  rather wanted the audience to be disconnected from these traditional expectations.",
+				"The music was created by Simen Følstad Nilsen, Axel Skalstad and Mokkelbost, and was put together in one creatively explosive week in a studio in Northern Italy. Based on a mix of improvisation and written pieces, it became an energetic slab of music, filled with energy, warped guitar sounds and complex rhythms, held together by a red thread of arpeggiated synthesizers.",
+				"When presented live - which this record documents - the musicians name were kept secret on stage, as they appeared behind two layers of bobinette curtains, as well as strobe lights and smoke.",
+				"The audience felt captivated by the event, as they knew nothing of what music they were about to hear or who was performing it.",
+				"Upon this release we disclose the performers, which were drummer Axel Skalstad, bass player Ellen Brekken, keyboardist and singer Marte Eberson, guitarist Simen Følstad Nilsen, keyboardist and percussionist Jonas Barsten and keyboardist and singer Gunhild Ramsay Kristoffersen - all well known names from the Norwegian pop, jazz, electronic and rock-scenes.",
+				"This recording is all from the live show, and is a visceral and inviting piece of music done within a context where both the musicians and the audience had a newfound feeling of freedom. This made it a special event now documented here.",
+				"In September 2018 Pekula Vol.2 - ONENESS is set to be performed and documented, with a new group of musicians and a new form of music taking place, as it will the coming years always introduce new constellations and visual ideas.",
+				"We are happy to show you its first edition, so enjoy!"
+			],
+			"releaseDate": "2018-10-27",
+			"links": [
+				{
+					"_id": 1,
+					"label": "spotify",
+					"target": "https://play.spotify.com/album/1PMSiPkM4CQnfUd7jrUcD7",
+					"sortIndex": 1 
+				},
+				{
+					"_id": 2,
+					"label": "bandcamp",
+					"target": "https://pekula.bandcamp.com/",
+					"sortIndex": 2 
+				},
+				{
+					"_id": 3,
+					"label": "LP",
+					"target": "https://jansenrecords.tigernet.no/item/153098--pekula--vol-1---arp--vinyl",
+					"sortIndex": 3
+				},
+				{
+					"_id": 4,
+					"label": "amazon",
+					"target": "https://www.amazon.com/Vol-1-Arp-Pekula/dp/B07DLLWW46/ref=sr_1_1?ie=UTF8&qid=1544600839&sr=8-1&keywords=pekula+vol.+1+arp",
+					"sortIndex": 4
+				}
+			],
+			"content": [
+				{
+					"_id": 1,
+					"type": "image",
+					"subType": "large",
+					"sortIndex": 1,
+					"location": "/images/releases/arpvol1art1.jpg"
+				},
+				{
+					"_id": 2,
+					"type": "image",
+					"subType": "small",
+					"sortIndex": 2,
+					"location": "/images/releases/arpvol1art2.jpg"
+				},
+				{
+					"_id": 3,
+					"type": "image",
+					"subType": "small",
+					"sortIndex": 3,
+					"location": "/images/releases/arpvol1art3.jpg"
+				}
+			]
+		},
+		{
+			"_id": 3,
+			"name": "Las Napalmas",
+			"slug": "las-napalmas",
+			"artistId": 1,
+			"imageUrl": "/images/releases/lasnapalmas.jpg",
+			"aboutText": [
+				"«Las Napalmas» is a «to be or not to be» project, both for the listeners and the band. If you throw yourself into its musical whirlwind, which Tobias and Simen from Aiming For Enrike do every time, we’re pretty sure that you soon will catch on as well. Inside it’s atmospheric, it’s staccato, it’s fierce and it’s fascinating. But most of all it’s a lot of fun.",
+				"The common denominator for their music has always been energy and explosiveness, and there’s no doubt that you will be served that on «Las Napalmas». Songs like «Nibloninan Car», «Moustache» and «Lactic Acid Trip» hit you like heavy blows in your midriff.  In addition, you get slow and more sonic songs like «Social Window», «Front Runner» and «Hi Ball».",
+				"It may not sound like it, since the songs throw you around with infernal power and firm intensity, but Aiming For Enrike is actually only two musicans: One guitar and one drumkit. Even though it may be difficult to believe it – the album was 100% recorded live in the studio, with only those two musicians in one room.",
+				"Together, Aiming For Enrike have created their own universe where everything is centered around what happens between the two of them in a rehearsal space, in a studio and on a stage. What you see is what you hear, and what you hear is pure joy. For the listeners and for the band."
+			],
+			"releaseDate": "2018-10-27",
+			"links": [
+				{
+					"_id": 1,
+					"label": "spotify",
+					"target": "https://play.spotify.com/album/1fqxBifCINj7pxwm9yoypU",
+					"sortIndex": 1 
+				},
+				{
+					"_id": 2,
+					"label": "bandcamp",
+					"target": "https://aimingforenrike.bandcamp.com/",
+					"sortIndex": 2 
+				},
+				{
+					"_id": 3,
+					"label": "LP/CD",
+					"target": "https://jansenrecords.tigernet.no/site/browse/%22aiming+for+enrike%22",
+					"sortIndex": 3
+				},
+				{
+					"_id": 4,
+					"label": "amazon",
+					"target": "https://www.amazon.com/Las-Napalmas-Aiming-Enrike/dp/B0758W29KK/ref=sr_1_1?ie=UTF8&qid=1544600860&sr=8-1&keywords=aiming+for+enrike",
+					"sortIndex": 4
+				}
+			],
+			"content": [
+				{
+					"_id": 1,
+					"type": "image",
+					"subType": "large",
+					"sortIndex": 1,
+					"location": "/images/releases/lasnapalmasart1.jpg"
+				}
+			]
+		}
+	]
+}

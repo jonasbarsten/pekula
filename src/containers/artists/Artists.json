@@ -1,0 +1,96 @@
+{
+	"artists": [
+		{
+			"_id": 1,
+			"name": "Aiming for Enrike",
+			"slug": "aiming-for-enrike",
+			"imageUrl": "/images/artists/aiming.jpg",
+			"aboutText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse potenti nullam ac tortor vitae purus. Proin sagittis nisl rhoncus mattis. Viverra adipiscing at in tellus integer. Eu turpis egestas pretium aenean pharetra. Iaculis at erat pellentesque adipiscing commodo elit. Diam maecenas ultricies mi eget mauris pharetra. Feugiat nisl pretium fusce id velit ut. Euismod quis viverra nibh cras pulvinar mattis nunc sed. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Quam elementum pulvinar etiam non quam lacus suspendisse. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Turpis massa tincidunt dui ut ornare. Feugiat nisl pretium fusce id velit ut. Scelerisque eleifend donec pretium vulputate sapien nec sagittis. Vulputate ut pharetra sit amet aliquam. Nibh mauris cursus mattis molestie.",
+			"content": [
+				{
+					"_id": 1,
+					"type": "image",
+					"subType": "large",
+					"sortIndex": 1,
+					"location": "/images/releases/amgalatempleart1.jpg"
+				},
+				{
+					"_id": 2,
+					"type": "image",
+					"subType": "small",
+					"sortIndex": 2,
+					"location": "/images/releases/amgalatempleart2.jpg"
+				}
+			]
+		},
+		{
+			"_id": 2,
+			"name": "Amgala Temple",
+			"slug": "amgala-temple",
+			"imageUrl": "/images/artists/amgala.jpg",
+			"aboutText": "AMGALA TEMPLE is the sound of three musical forces combined. The result is an overwhelming clash of spontaneity and control, improvisation and clairvoyance - all meshed together in a quest to make something radiant. The mix of Lars Horntveth, Amund Maarud and Gard Nilssen is a wish come true for music fans, as they each have made great impact as bandleaders, solo artists and musicians in an array of projects - be it with Jaga Jazzist, Susanne Sundfør, Todd Terje, Morudes, Bushman’s Revenge, a-ha or Gard Nilssen’s Acoustic Unity.",
+			"content": [
+				{
+					"_id": 1,
+					"type": "image",
+					"subType": "large",
+					"sortIndex": 1,
+					"location": "/images/releases/amgalatempleart1.jpg"
+				},
+				{
+					"_id": 2,
+					"type": "image",
+					"subType": "small",
+					"sortIndex": 2,
+					"location": "/images/releases/amgalatempleart2.jpg"
+				}
+			]
+		},
+		{
+			"_id": 3,
+			"name": "Pekula Vol. 1",
+			"slug": "pekula-vol-1",
+			"imageUrl": "/images/artists/pekula-vol-1.jpg",
+			"aboutText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse potenti nullam ac tortor vitae purus. Proin sagittis nisl rhoncus mattis. Viverra adipiscing at in tellus integer. Eu turpis egestas pretium aenean pharetra. Iaculis at erat pellentesque adipiscing commodo elit. Diam maecenas ultricies mi eget mauris pharetra. Feugiat nisl pretium fusce id velit ut. Euismod quis viverra nibh cras pulvinar mattis nunc sed. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Quam elementum pulvinar etiam non quam lacus suspendisse. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Turpis massa tincidunt dui ut ornare. Feugiat nisl pretium fusce id velit ut. Scelerisque eleifend donec pretium vulputate sapien nec sagittis. Vulputate ut pharetra sit amet aliquam. Nibh mauris cursus mattis molestie.",
+			"content": [
+				{
+					"_id": 1,
+					"type": "image",
+					"subType": "large",
+					"sortIndex": 1,
+					"location": "/images/releases/amgalatempleart1.jpg"
+				},
+				{
+					"_id": 2,
+					"type": "image",
+					"subType": "small",
+					"sortIndex": 2,
+					"location": "/images/releases/amgalatempleart2.jpg"
+				}
+			]
+		},
+		{
+			"_id": 4,
+			"name": "Pekula Vol. 2",
+			"slug": "pekula-vol-2",
+			"imageUrl": "/images/artists/pekula-vol-2.jpg",
+			"aboutText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse potenti nullam ac tortor vitae purus. Proin sagittis nisl rhoncus mattis. Viverra adipiscing at in tellus integer. Eu turpis egestas pretium aenean pharetra. Iaculis at erat pellentesque adipiscing commodo elit. Diam maecenas ultricies mi eget mauris pharetra. Feugiat nisl pretium fusce id velit ut. Euismod quis viverra nibh cras pulvinar mattis nunc sed. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Quam elementum pulvinar etiam non quam lacus suspendisse. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Turpis massa tincidunt dui ut ornare. Feugiat nisl pretium fusce id velit ut. Scelerisque eleifend donec pretium vulputate sapien nec sagittis. Vulputate ut pharetra sit amet aliquam. Nibh mauris cursus mattis molestie.",
+			"content": [
+				{
+					"_id": 1,
+					"type": "image",
+					"subType": "large",
+					"sortIndex": 1,
+					"location": "/images/releases/amgalatempleart1.jpg"
+				},
+				{
+					"_id": 2,
+					"type": "image",
+					"subType": "small",
+					"sortIndex": 2,
+					"location": "/images/releases/amgalatempleart2.jpg"
+				}
+			]
+		}
+	]
+}

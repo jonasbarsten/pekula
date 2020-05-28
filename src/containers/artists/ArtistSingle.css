@@ -1,0 +1,25 @@
+.ArtistSingle {
+	margin-top: 80px;
+}
+
+.ArtistSingle h1 {
+	font-size: 4rem;
+}
+
+.ArtistSingle .about-text-container {
+	margin-top: 50px;
+}
+
+.ArtistSingle .banner-container {
+	margin-top: 80px;
+}
+
+.ArtistSingle .heading-container {
+	margin-top: 50px;
+}
+
+@media (min-width: 768px) {
+	.ArtistSingle h1 {
+		font-size: 7rem;
+	}
+}

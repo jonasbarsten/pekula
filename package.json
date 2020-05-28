@@ -1,0 +1,24 @@
+{
+  "name": "pekula-client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "moment": "^2.22.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-reveal": "^1.2.2",
+    "react-router-dom": "^4.3.1",
+    "react-router-last-location": "^1.1.0",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "aws s3 sync build/ s3://pekula-client --delete",
+    "postdeploy": "aws cloudfront create-invalidation --distribution-id EYG7KSJCW12T5 --paths '/*'",
+    "eject": "react-scripts eject"
+  }
+}

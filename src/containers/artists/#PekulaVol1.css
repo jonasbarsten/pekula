@@ -1,0 +1,13 @@
+#pekula_1 #background {
+	background: #58AEE8;
+	position: absolute;
+	width: 100%;
+	top: 42em;
+}
+
+
+@media (min-width: 768px) {
+	#pekula_1 #background {
+		top: 46em;
+	}
+}

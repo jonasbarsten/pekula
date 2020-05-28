@@ -1,0 +1,67 @@
+.ShowSingle {
+	margin-bottom: 60px;
+}
+
+.ShowSingle a {
+	color: inherit;
+}
+
+/*.ShowSingle .heading-container {
+	margin-top: 100px;
+}
+*/
+.ShowSingle .heading-container h1 {
+	margin: 40px 0;
+	font-size: 3rem;
+}
+
+.ShowSingle .text-overlay {
+	margin-top: -700px;
+}
+
+.ShowSingle .text-overlay h2 {
+	font-size: 5rem;
+}
+
+@media (min-width: 576px) {
+	.ShowSingle .text-overlay {
+		margin-top: -900px;
+	}
+
+	.ShowSingle .text-overlay h2 {
+		font-size: 8rem;
+	}
+}
+
+@media (min-width: 768px) {
+
+	.ShowSingle .text-overlay {
+		margin-top: -900px;
+	}
+
+	.ShowSingle .text-overlay h2 {
+		font-size: 8rem;
+	}
+
+	.ShowSingle .heading-container h1 {
+		font-size: 4rem;
+	}
+
+	.ShowSingle .rotate-minus-90 {
+		-webkit-transform: rotate(-90deg);
+		-moz-transform: rotate(-90deg);
+		-ms-transform: rotate(-90deg);
+		-o-transform: rotate(-90deg);
+		float: left;
+		white-space: nowrap;
+	}
+
+	.ShowSingle .rotate-plus-90 {
+		-webkit-transform: rotate(90deg);
+		-moz-transform: rotate(90deg);
+		-ms-transform: rotate(90deg);
+		-o-transform: rotate(90deg);
+		float: right;
+		white-space: nowrap;
+	}
+}

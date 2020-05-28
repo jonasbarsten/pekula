@@ -1,0 +1,29 @@
+.ReleaseSingle {
+	margin-top: 80px;
+}
+
+.ReleaseSingle .link {
+	text-decoration: none;
+	color: inherit;
+}
+
+.ReleaseSingle .link-container {
+	margin-top: 80px;
+}
+
+.ReleaseSingle .about-text-container {
+	margin-top: 60px;
+}
+
+.ReleaseSingle .cover-image-container {
+	margin-top: 60px;
+}
+
+.ReleaseSingle .heading-container {
+	margin-top: 80px;
+	font-size: 3rem;
+}
+
+.ReleaseSingle .link-wrapper {
+	margin-bottom: 15px;
+}

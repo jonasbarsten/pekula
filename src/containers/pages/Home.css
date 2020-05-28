@@ -1,0 +1,29 @@
+.Home {
+	margin-top: 80px;
+}
+
+.Home .about-text-container {
+	margin-top: 80px;
+}
+
+.Home .about-text-container h3 {
+	font-size: 4rem;
+}
+
+.Home a {
+	color: inherit;
+}
+
+.Home .category-heading {
+	margin-top: 80px;
+/*	margin-bottom: 50px;*/
+}
+
+@media (min-width: 768px) {
+	.Home .category-heading {
+		margin-bottom: -10px;
+	}
+	.Home .about-text-container h3 {
+		font-size: 5rem;
+	}
+}

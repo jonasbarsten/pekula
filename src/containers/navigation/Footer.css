@@ -1,0 +1,39 @@
+.Footer {
+	margin-top: 80px;
+	padding-top: 150px;
+	padding-bottom: 20px;
+	background-image: linear-gradient(white, #FFFFDC);
+}
+
+.Footer p {
+	line-height: 1.25rem;
+}
+
+.Footer a {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.Footer .contact-container,
+.Footer .heading-container {
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+.Footer .arrow {
+	text-align: center;
+}
+
+@media (min-width: 768px) {
+	.Footer .heading-container {
+		text-align: right;
+	}
+
+	.Footer .contact-container {
+		text-align: inherit;
+	}
+
+	.Footer .arrow {
+		text-align: left;
+	}
+}

@@ -1,0 +1,46 @@
+.ShowCard {
+	margin-bottom: 60px;
+}
+
+.ShowCard a {
+	color: inherit;
+}
+
+.ShowCard .heading-container h1 {
+	margin: 40px 0;
+	font-size: 3rem;
+}
+
+.ShowCard .category-heading {
+	margin-top: 60px;
+	margin-bottom: 10px;
+}
+
+@media (min-width: 768px) {
+
+	.ShowCard .category-heading {
+		margin-bottom: -10px;
+	}
+
+	.ShowCard .heading-container h1 {
+		font-size: 7rem;
+	}
+
+	.ShowCard .rotate-minus-90 {
+		-webkit-transform: rotate(-90deg);
+		-moz-transform: rotate(-90deg);
+		-ms-transform: rotate(-90deg);
+		-o-transform: rotate(-90deg);
+		float: left;
+		white-space: nowrap;
+	}
+
+	.ShowCard .rotate-plus-90 {
+		-webkit-transform: rotate(90deg);
+		-moz-transform: rotate(90deg);
+		-ms-transform: rotate(90deg);
+		-o-transform: rotate(90deg);
+		float: right;
+		white-space: nowrap;
+	}
+}

@@ -1,0 +1,112 @@
+{
+	"shows": [
+		{
+			"_id": 1,
+			"slug": "pekula-oneness",
+			"name": "Pekula Vol.2 live 21.sep 2018 Parkteateret Oslo",
+			"ticketUrl": "https://www.ticketmaster.no/event/584063",
+			"dateStart": "2018-09-21",
+			"dateEnd": "",
+			"content": [
+				{
+					"_id": 1,
+					"type": "image",
+					"alt": "Mountain far away",
+					"subType": "",
+					"sortIndex": 1,
+					"location": "/images/shows/temp1.jpg",
+					"marginTop": "30px",
+					"zIndex": "",
+					"colMd": "",
+					"offsetMd": "",
+					"transform": "",
+					"color": ""
+				},
+				{
+					"_id": 2,
+					"type": "background",
+					"alt": "Mountain close up and upside down",
+					"subType": "",
+					"sortIndex": 2,
+					"location": "/images/shows/temp2.jpg",
+					"marginTop": "-93px",
+					"zIndex": "-1",
+					"colMd": "",
+					"offsetMd": "",
+					"transform": "scale(-1, -1)",
+					"color": ""
+				},
+				{
+					"_id": 3,
+					"type": "textOverlay",
+					"alt": "",
+					"subType": "",
+					"sortIndex": 3,
+					"location": "",
+					"marginTop": "",
+					"zIndex": "",
+					"colMd": "",
+					"offsetMd": "",
+					"transform": "",
+					"color": "white",
+					"text": "ONENESS",
+					"repetitions": 6
+				}
+			]
+		},
+		{
+			"_id": 2,
+			"slug": "pekula-arp",
+			"name": "Pekula Vol.1 live 18.sep 2017 Parkteateret Oslo",
+			"ticketUrl": "https://www.ticketmaster.no/event/584063",
+			"dateStart": "2017-09-18",
+			"dateEnd": "",
+			"content": [
+				{
+					"_id": 1,
+					"type": "image",
+					"alt": "Mountain far away",
+					"subType": "",
+					"sortIndex": 1,
+					"location": "/images/shows/temp1.jpg",
+					"marginTop": "30px",
+					"zIndex": "",
+					"colMd": "",
+					"offsetMd": "",
+					"transform": "",
+					"color": ""
+				},
+				{
+					"_id": 2,
+					"type": "background",
+					"alt": "Mountain close up and upside down",
+					"subType": "",
+					"sortIndex": 2,
+					"location": "/images/shows/temp2.jpg",
+					"marginTop": "-93px",
+					"zIndex": "-1",
+					"colMd": "",
+					"offsetMd": "",
+					"transform": "scale(-1, -1)",
+					"color": ""
+				},
+				{
+					"_id": 3,
+					"type": "textOverlay",
+					"alt": "",
+					"subType": "",
+					"sortIndex": 3,
+					"location": "",
+					"marginTop": "",
+					"zIndex": "",
+					"colMd": "",
+					"offsetMd": "",
+					"transform": "",
+					"color": "white",
+					"text": "ONENESS",
+					"repetitions": 6
+				}
+			]
+		}
+	]
+}

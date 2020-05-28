@@ -1,0 +1,39 @@
+.About {
+	margin-top: 80px;
+}
+
+.About .heading-container,
+.About .content-container {
+	margin-top: 80px;
+}
+
+.About .heading-container h3 {
+	font-size: 4rem;
+}
+
+.About a {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.About .bio {
+	margin-bottom: 50px;
+}
+
+.About .contact-list,
+.About .sub-heading {
+	text-align: center;
+}
+
+@media (min-width: 768px) {
+	.About .bio {
+		border: none;
+		margin-bottom: 0;
+		padding-bottom: 0;
+	}
+
+	.About .contact-list,
+	.About .sub-heading {
+		text-align: inherit;
+	}
+}

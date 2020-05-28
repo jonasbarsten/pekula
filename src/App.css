@@ -1,0 +1,174 @@
+@font-face {
+	font-family: 'FoundersGrotesk-Regular';
+	src: url('/fonts/FoundersGrotesk-Regular.otf')
+}
+
+@font-face {
+	font-family: 'Nimbus sans black extended';
+	src: url('/fonts/nimbus-sans-extd-black.otf')
+}
+
+@font-face {
+	font-family: 'Nimbus sans black extended d';
+	src: url('/fonts/nimbus-sans-extd-d-black.otf')
+}
+
+@font-face {
+	font-family: 'Nimbus sans black extended d outline';
+	src: url('/fonts/nimbus-sans-outline-extd-d-black.otf')
+}
+
+@font-face {
+	font-family: 'Styrene A Black';
+	src: url('/fonts/StyreneA-Black.otf')
+}
+@font-face {
+	font-family: 'Styrene A Bold';
+	src: url('/fonts/StyreneA-Bold.otf')
+}
+@font-face {
+	font-family: 'Styrene A Regular';
+	src: url('/fonts/StyreneA-Regular.otf')
+}
+@font-face {
+	font-family: 'Styrene B Light';
+	src: url('/fonts/StyreneB-Light.otf')
+}
+@font-face {
+	font-family: 'Styrene B Regular';
+	src: url('/fonts/StyreneB-Regular.otf')
+}
+@font-face {
+	font-family: 'Styrene B Thin';
+	src: url('/fonts/StyreneB-Thin.otf')
+}
+
+/*Sticky footer flexbox: https://css-tricks.com/couple-takes-sticky-footer/*/
+
+html, body, #root, .App {
+  height: 100%;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+html {
+	/* https://engageinteractive.co.uk/blog/em-vs-rem-vs-px */
+	font-size: 62.5%;
+}
+
+
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Styrene B Light', Fallback, sans-serif;
+	font-size: 1.6rem;
+	color: #333;
+}
+
+h1 {
+	font-family: 'Styrene A Bold', Fallback, sans-serif;
+	font-size: 4rem;
+}
+
+h2 {
+	font-family: 'Styrene A Black', Fallback, sans-serif;
+	font-size: 1em;
+}
+
+h3, h4, h5, h6 {
+	font-family: 'Styrene A Regular', Fallback, sans-serif;
+	font-size: 1em;
+}
+
+p {
+	font-size: 1.25em;
+}
+
+select.form-control,
+textarea.form-control,
+input.form-control {
+	font-size: 16px;
+}
+
+input[type=file] {
+	width: 100%;
+}
+
+.zoom-on-hover {
+	padding: 0;
+	position: relative;
+	overflow: hidden;
+}
+
+.zoom-on-hover img {
+	max-width: 100%;
+	-moz-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+.zoom-on-hover img:hover {
+	-moz-transform: scale(1.01);
+	-webkit-transform: scale(1.01);
+	transform: scale(1.01);
+}
+
+.hover-line {
+	position: relative;
+}
+
+.hover-line:before {
+	border-bottom: 6px solid #3F9CE8;
+	opacity: 0;
+	left: -5%;
+	position: absolute;
+	content: "";
+	width: 110%;
+	height: 72%;
+	transition: opacity .30s ease-in-out;
+	-moz-transition: opacity .30s ease-in-out;
+	-webkit-transition: opacity .30s ease-in-out;
+}
+
+.custom-shadow {
+	-moz-box-shadow:    -4px 4px 5px 0px #ccc;
+	-webkit-box-shadow: -4px 4px 5px 0px #ccc;
+	box-shadow:         -4px 4px 5px 0px #ccc;
+}
+
+.vis-hidden {
+	opacity: 0;
+}
+
+@media (min-width: 768px) {
+
+/* Had to do this with media query, read following: */
+/* https://css-tricks.com/annoying-mobile-double-tap-link-issue/ */
+/* https://caniuse.com/#feat=css-media-interaction */
+	.hover-line:hover:before {
+		opacity: 0.36;
+	}
+
+	p {
+		font-size: 1.25em;
+	}
+
+	h1 {
+		font-family: 'Styrene A Bold', Fallback, sans-serif;
+		font-size: 5rem;
+	}
+
+	h2 {
+		font-family: 'Styrene A Black', Fallback, sans-serif;
+		font-size: 1.25em;
+	}
+
+	h3, h4, h5, h6 {
+		font-family: 'Styrene A Regular', Fallback, sans-serif;
+		font-size: 1.25em;
+	}
+}

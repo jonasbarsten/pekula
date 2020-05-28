@@ -1,0 +1,13 @@
+#amgala #background {
+	background: black;
+	position: absolute;
+	width: 100%;
+	top: 42em;
+}
+
+
+@media (min-width: 768px) {
+	#amgala #background {
+		top: 46em;
+	}
+}
